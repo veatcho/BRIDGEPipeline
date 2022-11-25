@@ -41,7 +41,7 @@ library(ghql)
 Disease <- 'Schizophrenia'
 CUI <- 'C0036341'
 
-auth_params <- list("email"="oveatch@kumc.edu","password"="BRIDGE_2021")
+auth_params <- list("email"="youremail","password"="yourpassword")
 
 api_host <- "https://www.disgenet.org/api"
 
