@@ -1,0 +1,79 @@
+curie_id,label,mapped_curie,mapped_label,mapping_source_prefix,mapping_target_prefix,distance
+GO:0001706,endoderm formation,MP:0001685,abnormal endoderm development,MP,MP,1
+GO:0030216,keratinocyte differentiation,MP:0001224,abnormal keratinocyte apoptosis,MP,MP,1
+GO:0007599,hemostasis,MP:0009676,abnormal hemostasis,MP,MP,1
+GO:0006874,cellular calcium ion homeostasis,MP:0004231,abnormal calcium ion homeostasis,MP,MP,1
+GO:0007669,,MP:0001700,abnormal embryo turning,MP,MP,1
+GO:0007669,,MP:0001696,failure to gastrulate,MP,MP,1
+GO:0007669,,MP:0002174,abnormal gastrulation movements,MP,MP,1
+GO:0007669,,MP:0001695,abnormal gastrulation,MP,MP,1
+GO:0007669,,MP:0001701,incomplete embryo turning,MP,MP,1
+GO:0048144,fibroblast proliferation,MP:0011702,abnormal fibroblast proliferation,MP,MP,1
+GO:0042552,myelination,MP:0000920,abnormal myelination,MP,MP,1
+GO:0040007,growth,MP:0001253,abnormal body height,MP,MP,1
+GO:0040007,growth,MP:0002089,abnormal postnatal growth/weight/body size,MP,MP,1
+GO:0040007,growth,MP:0001265,decreased body size,MP,MP,1
+GO:0040007,growth,MP:0001264,increased body size,MP,MP,1
+GO:0006915,apoptotic process,MP:0001648,abnormal apoptosis,MP,MP,1
+GO:0006915,apoptotic process,MP:0001224,abnormal keratinocyte apoptosis,MP,MP,1
+GO:0040014,regulation of multicellular organism growth,MP:0001253,abnormal body height,MP,MP,1
+GO:0040014,regulation of multicellular organism growth,MP:0001265,decreased body size,MP,MP,1
+GO:0040014,regulation of multicellular organism growth,MP:0001264,increased body size,MP,MP,1
+GO:0040014,regulation of multicellular organism growth,MP:0002089,abnormal postnatal growth/weight/body size,MP,MP,1
+GO:0045333,cellular respiration,MP:0010954,abnormal cellular respiration,MP,MP,1
+GO:0006924,activation-induced cell death of T cells,MP:0010677,decreased activation-induced cell death of T cells,MP,MP,1
+GO:0006924,activation-induced cell death of T cells,MP:0010676,increased activation-induced cell death of T cells,MP,MP,1
+GO:0006924,activation-induced cell death of T cells,MP:0010670,abnormal activation-induced cell death of T cells,MP,MP,1
+GO:0042470,melanosome,MP:0005075,abnormal melanosome morphology,MP,MP,1
+GO:0001654,eye development,MP:0002092,abnormal eye morphology,MP,MP,1
+GO:0001654,eye development,MP:0001286,abnormal eye development,MP,MP,1
+GO:0001707,mesoderm formation,MP:0001680,abnormal mesoderm development,MP,MP,1
+GO:0001707,mesoderm formation,MP:0001683,absent mesoderm,MP,MP,1
+GO:0001917,photoreceptor inner segment,MP:0003730,abnormal photoreceptor inner segment morphology,MP,MP,1
+GO:0060073,micturition,MP:0001756,abnormal urination,MP,MP,1
+GO:0042267,natural killer cell mediated cytotoxicity,MP:0011719,abnormal natural killer cell mediated cytotoxicity,MP,MP,1
+GO:0071948,activation-induced B cell apoptotic process,MP:0010674,increased activation-induced B cell apoptosis,MP,MP,1
+GO:0071948,activation-induced B cell apoptotic process,MP:0010669,abnormal activation-induced B cell apoptosis,MP,MP,1
+GO:0071948,activation-induced B cell apoptotic process,MP:0010675,decreased activation-induced B cell apoptosis,MP,MP,1
+GO:0002339,B cell selection,MP:0004942,abnormal B cell selection,MP,MP,1
+GO:0001750,photoreceptor outer segment,MP:0003729,abnormal photoreceptor outer segment morphology,MP,MP,1
+GO:0007417,central nervous system development,MP:0003632,abnormal nervous system morphology,MP,MP,1
+GO:0030154,cell differentiation,MP:0005076,abnormal cell differentiation,MP,MP,1
+GO:0005764,lysosome,MP:0005058,abnormal lysosome morphology,MP,MP,1
+GO:0007605,sensory perception of sound,MP:0001963,abnormal hearing physiology,MP,MP,1
+GO:0007605,sensory perception of sound,MP:0001967,deafness,MP,MP,1
+GO:0006281,DNA repair,MP:0008058,abnormal DNA repair,MP,MP,1
+GO:0050883,"musculoskeletal movement, spinal reflex action",MP:0012079,abnormal spinal reflex,MP,MP,1
+GO:0042471,ear morphogenesis,MP:0002102,abnormal ear morphology,MP,MP,1
+GO:0046849,bone remodeling,MP:0002998,abnormal bone remodeling,MP,MP,1
+GO:0022904,respiratory electron transport chain,MP:0010955,abnormal respiratory electron transport chain,MP,MP,1
+GO:0005794,Golgi apparatus,MP:0011743,abnormal Golgi apparatus morphology,MP,MP,1
+GO:0006955,immune response,MP:0001790,abnormal immune system physiology,MP,MP,1
+GO:0007505,adult fat body development,MP:0000297,abnormal atrioventricular cushion morphology,MP,MP,1
+GO:0007505,adult fat body development,MP:0000266,abnormal heart morphology,MP,MP,1
+GO:0060670,branching involved in labyrinthine layer morphogenesis,MP:0011528,abnormal placental labyrinth villi branching morphogenesis,MP,MP,1
+GO:0007413,axonal fasciculation,MP:0009450,abnormal axon fasciculation,MP,MP,1
+GO:0010761,fibroblast migration,MP:0011706,abnormal fibroblast migration,MP,MP,1
+GO:0060055,angiogenesis involved in wound healing,MP:0003710,abnormal physiological neovascularization,MP,MP,1
+GO:0000012,single strand break repair,MP:0010947,abnormal single-strand DNA break repair,MP,MP,1
+GO:0007143,female meiotic nuclear division,MP:0005168,abnormal female meiosis,MP,MP,1
+GO:0001658,branching involved in ureteric bud morphogenesis,MP:0010981,abnormal branching involved in ureteric bud morphogenesis,MP,MP,1
+GO:0006099,tricarboxylic acid cycle,MP:0010958,abnormal tricarboxylic acid cycle,MP,MP,1
+GO:0001705,ectoderm formation,MP:0001675,abnormal ectoderm development,MP,MP,1
+GO:0007420,brain development,MP:0000913,abnormal brain development,MP,MP,1
+GO:0007369,gastrulation,MP:0001693,failure of primitive streak formation,MP,MP,1
+GO:0070293,renal absorption,MP:0010107,abnormal renal reabsorbtion,MP,MP,1
+GO:0006119,oxidative phosphorylation,MP:0010959,abnormal oxidative phosphorylation,MP,MP,1
+GO:0007041,lysosomal transport,MP:0005059,lysosomal protein accumulation,MP,MP,1
+GO:0045141,meiotic telomere clustering,MP:0030023,abnormal meiotic telomere clustering,MP,MP,1
+GO:0007275,multicellular organism development,MP:0001672,abnormal embryo development,MP,MP,1
+GO:0009060,aerobic respiration,MP:0010957,abnormal aerobic respiration,MP,MP,1
+GO:0007140,male meiotic nuclear division,MP:0005169,abnormal male meiosis,MP,MP,1
+GO:0004035,alkaline phosphatase activity,MP:0000202,abnormal circulating alkaline phosphatase level,MP,MP,1
+GO:0042472,inner ear morphogenesis,MP:0000026,abnormal inner ear morphology,MP,MP,1
+GO:0002346,B cell positive selection,MP:0004943,abnormal B cell positive selection,MP,MP,1
+GO:0006956,complement activation,MP:0002471,abnormal complement pathway,MP,MP,1
+GO:00006302,,MP:0010948,abnormal double-strand DNA break repair,MP,MP,1
+GO:0007129,synapsis,MP:0009451,abnormal chromosomal synapsis,MP,MP,1
+GO:0006260,DNA replication,MP:0008057,abnormal DNA replication,MP,MP,1
+GO:0002352,B cell negative selection,MP:0004944,abnormal B cell negative selection,MP,MP,1
